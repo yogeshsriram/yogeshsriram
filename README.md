@@ -2,6 +2,9 @@
 <h3 align="center">🎓 B.Tech Student (Data Science) | Java Backend Developer  | Problem Solver | Skilled in Java, Spring Boot, Data Base Management System, with a strong focus on solving real-world problems</h3>
 
 ---
+📫 **How to reach me**
+- 📧 Email: yogeshsriram13@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/yogesh-sri-ram-pinisetti-5b336a2b9/
 
 🚀 **About Me**
 - 🎓 B.Tech Student (Data Science) – 3rd Year
