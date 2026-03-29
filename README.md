@@ -1,10 +1,13 @@
 <h1 align="center">Hey 👋, I'm Yogesh Sri Ram</h1>
 <h3 align="center">🎓 B.Tech Student (Data Science) | Java Backend Developer  | Problem Solver | Skilled in Java, Spring Boot, Data Base Management System, with a strong focus on solving real-world problems</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yogeshsriram&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 ---
 📫 **How to reach me**
 - 📧 Email: yogeshsriram13@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/yogesh-sri-ram-pinisetti-5b336a2b9/
+---
 
 🚀 **About Me**
 - 🎓 B.Tech Student (Data Science) – 3rd Year
@@ -25,20 +28,11 @@
 
 🛠 **Tech Stack**
 
-💻 **Languages**
-`C` `Java` `Python` `JavaScript` `SQL`
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,spring,mysql,git,github,vscode,eclipse,idea,postman,davinci" />
 
-🌐 **Frontend**
-`HTML` `CSS`
-
-⚙️ **Backend**
-`Spring Boot`
-
-🗄️ **Databases**
-`MySQL` `NoSQL`
-
-🛠 **Tools**
-`VS Code` `GitHub` `Git` `Postman` `IntelliJ` `Eclipse` `DaVinci Resolve`
+</p>
 
 ---
 
@@ -59,3 +53,11 @@ Real life based platform focused on sustainable resource sharing.
 ---
 
 ✨ “Building my future one commit at a time.”
+
+---
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshsriram&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsriram&theme=tokyonight" />
+</p>
