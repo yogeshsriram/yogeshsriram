@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yogeshsriram&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
----
-📫 **How to reach me**
-- 📧 Email: yogeshsriram13@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yogesh-sri-ram-pinisetti-5b336a2b9/
+---  <br>
+📫 **How to reach me** <br>
+- 📧 Email: yogeshsriram13@gmail.com <br>
+- 💼 LinkedIn: https://www.linkedin.com/in/yogesh-sri-ram-pinisetti-5b336a2b9/ <br>
 ---
 
 🚀 **About Me**
@@ -52,7 +52,8 @@ Real life based platform focused on sustainable resource sharing.
 
 ---
 
-✨ “Building my future one commit at a time.”
+✨ "Building my future one commit at a time." <br>
+🚀 Passionate about building scalable backend systems and solving real-world problems.
 
 ---
 📊 **GitHub Stats**
