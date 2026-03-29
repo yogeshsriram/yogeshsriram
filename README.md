@@ -14,7 +14,7 @@
 - 💻 Focused on Java Backend Development
 - 🧠 Skilled in Java, Spring Boot, and DBMS
 - 🏆 National Level Hackathon Winner 
-- 🎯 Goal: To become a well defined backend developer 
+- 🎯 Goal: To become a highly skilled Backend Engineer
 
 ---
 
